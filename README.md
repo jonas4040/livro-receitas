@@ -1,3 +1,3 @@
-# Livro de Receitas :man cooking:
+# Livro de Receitas
 
 - Este é um repositório de teste para aprender comandos git.
